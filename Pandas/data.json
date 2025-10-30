@@ -1,0 +1,12 @@
+[
+    {"name": "Arif", "age": 28, "profession": "Engineer", "income": 55000, "city": "Dhaka"},
+    {"name": "Nusrat", "age": 24, "profession": "Designer", "income": 48000, "city": "Chittagong"},
+    {"name": "Rafiq", "age": 35, "profession": "Teacher", "income": 39000, "city": "Rajshahi"},
+    {"name": "Mina", "age": 30, "profession": "Doctor", "income": 75000, "city": "Dhaka"},
+    {"name": "Hasan", "age": 27, "profession": "Engineer", "income": 58000, "city": "Khulna"},
+    {"name": "Sadia", "age": 26, "profession": "Designer", "income": 47000, "city": "Sylhet"},
+    {"name": "Rahim", "age": 31, "profession": "Teacher", "income": null, "city": "Dhaka"},
+    {"name": "Rina", "age": null, "profession": "Doctor", "income": 72000, "city": "Barisal"},
+    {"name": "Jamil", "age": 29, "profession": "Engineer", "income": 60000, "city": "Chittagong"},
+    {"name": "Farah", "age": 25, "profession": "Designer", "income": 49000, "city": "Khulna"}
+]
