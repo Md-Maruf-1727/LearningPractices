@@ -1,0 +1,11 @@
+id,name,age,sex,salary,bmi,children,smoker,region,department,join_date,is_manager
+1,John,28,M,55000,24.5,2,Yes,North,Sales,2020-01-15,False
+2,Jane,34,F,62000,22.1,1,No,South,Marketing,2019-06-23,True
+3,Bob,45,M,70000,27.8,3,Yes,East,IT,2015-09-10,False
+4,Alice,29,F,58000,23.4,0,No,West,HR,2021-03-12,False
+5,Mike,38,M,65000,28.2,,Yes,North,Finance,2018-12-01,True
+6,Linda,31,F,60000,21.9,2,No,South,IT,2020-07-08,False
+7,Steve,42,M,72000,26.5,1,Yes,East,Marketing,2016-11-20,True
+8,Karen,36,F,,24.9,2,No,West,Sales,2017-04-30,False
+9,Tom,39,M,68000,29.1,3,Yes,North,Finance,2015-05-14,False
+10,Susan,33,F,61000,23.0,1,No,South,HR,2019-08-25,False
