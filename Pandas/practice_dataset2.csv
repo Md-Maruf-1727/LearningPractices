@@ -1,0 +1,21 @@
+order_id,customer_name,product_category,product_price,quantity,order_date,delivery_status
+1001,John Doe,Electronics,299.99,1,2023-05-10,Delivered
+1002,Jane Smith,Clothing,49.99,2,2023-05-12,Shipped
+1003,Bob Johnson,Home & Kitchen,89.50,1,2023-05-13,Pending
+1004,Alice Williams,Books,19.99,3,2023-05-14,Delivered
+1005,Michael Brown,Electronics,499.99,1,2023-05-15,Cancelled
+1006,Linda Davis,Toys,29.99,2,2023-05-16,Delivered
+1007,James Wilson,Clothing,59.99,1,2023-05-17,Shipped
+1008,Patricia Moore,Home & Kitchen,79.99,1,2023-05-18,Delivered
+1009,Robert Taylor,Books,14.99,5,2023-05-19,Pending
+1010,Barbara Anderson,Electronics,199.99,1,2023-05-20,Delivered
+1011,Kevin Lee,Toys,39.99,2,2023-05-21,Shipped
+1012,Emily Clark,Clothing,69.99,1,2023-05-22,Delivered
+1013,David Harris,Home & Kitchen,59.99,2,2023-05-23,Pending
+1014,Susan Lewis,Books,24.99,4,2023-05-24,Delivered
+1015,Mark Young,Electronics,349.99,1,2023-05-25,Shipped
+1016,Laura King,Toys,49.99,3,2023-05-26,Delivered
+1017,Daniel Scott,Clothing,79.99,2,2023-05-27,Pending
+1018,Karen Hill,Home & Kitchen,99.99,1,2023-05-28,Delivered
+1019,Paul Allen,Books,29.99,2,2023-05-29,Shipped
+1020,Jessica Wright,Electronics,399.99,1,2023-05-30,Delivered
